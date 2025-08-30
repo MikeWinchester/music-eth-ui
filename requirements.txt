@@ -1,0 +1,5 @@
+@rainbow-me/rainbowkit 
+wagmi 
+ethers
+lucide-react
+npx shadcn-ui@latest init
